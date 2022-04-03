@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 793f918100a9a5640b3315873c754468
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2828391254712776654
+    second: Formal Rooster Sprite sheet standing and running_0
+  - first:
+      213: -309851980271182779
+    second: Formal Rooster Sprite sheet standing and running_1
+  - first:
+      213: 8273700325972981272
+    second: Formal Rooster Sprite sheet standing and running_2
+  - first:
+      213: 5764211311337991175
+    second: Formal Rooster Sprite sheet standing and running_3
+  - first:
+      213: 4499392862753986847
+    second: Formal Rooster Sprite sheet standing and running_4
+  - first:
+      213: 2889767858559870536
+    second: Formal Rooster Sprite sheet standing and running_5
+  - first:
+      213: 411717951557258958
+    second: Formal Rooster Sprite sheet standing and running_6
+  - first:
+      213: -4164180812584404212
+    second: Formal Rooster Sprite sheet standing and running_7
+  - first:
+      213: -2576899133011666204
+    second: Formal Rooster Sprite sheet standing and running_8
+  - first:
+      213: -1350160013009115670
+    second: Formal Rooster Sprite sheet standing and running_9
+  - first:
+      213: 2793316935030014081
+    second: Formal Rooster Sprite sheet standing and running_10
+  - first:
+      213: 2789541809505508153
+    second: Formal Rooster Sprite sheet standing and running_11
+  - first:
+      213: -6607227994833727904
+    second: Formal Rooster Sprite sheet standing and running_12
+  - first:
+      213: 2758440867461232266
+    second: Formal Rooster Sprite sheet standing and running_13
+  - first:
+      213: 196790540355741232
+    second: Formal Rooster Sprite sheet standing and running_14
+  - first:
+      213: 1613149370142083447
+    second: Formal Rooster Sprite sheet standing and running_15
+  - first:
+      213: 3441007896013487666
+    second: Formal Rooster Sprite sheet standing and running_16
+  - first:
+      213: 5603872294798733495
+    second: Formal Rooster Sprite sheet standing and running_17
+  - first:
+      213: 5118679539851066745
+    second: Formal Rooster Sprite sheet standing and running_18
+  - first:
+      213: -3753136930067341422
+    second: Formal Rooster Sprite sheet standing and running_19
+  - first:
+      213: -5414909097418797675
+    second: Formal Rooster Sprite sheet standing and running_20
+  - first:
+      213: -5232238197746042181
+    second: Formal Rooster Sprite sheet standing and running_21
+  - first:
+      213: 4804961289410240319
+    second: Formal Rooster Sprite sheet standing and running_22
+  - first:
+      213: -2373504266033860796
+    second: Formal Rooster Sprite sheet standing and running_23
+  - first:
+      213: 6033111065814110261
+    second: Formal Rooster Sprite sheet standing and running_24
+  - first:
+      213: 8349680457483501571
+    second: Formal Rooster Sprite sheet standing and running_25
+  - first:
+      213: -8458271919240680317
+    second: Formal Rooster Sprite sheet standing and running_26
+  - first:
+      213: 7745874676679941103
+    second: Formal Rooster Sprite sheet standing and running_27
+  - first:
+      213: 3017621277181898583
+    second: Formal Rooster Sprite sheet standing and running_28
+  - first:
+      213: -4090110472075944322
+    second: Formal Rooster Sprite sheet standing and running_29
+  - first:
+      213: -13952819448611925
+    second: Formal Rooster Sprite sheet standing and running_30
+  - first:
+      213: -7959345705254268197
+    second: Formal Rooster Sprite sheet standing and running_31
+  - first:
+      213: -1551485907646660251
+    second: Formal Rooster Sprite sheet standing and running_32
+  - first:
+      213: 8825604479470302966
+    second: Formal Rooster Sprite sheet standing and running_33
+  - first:
+      213: -1582702653455180370
+    second: Formal Rooster Sprite sheet standing and running_34
+  - first:
+      213: 8660695199742192860
+    second: Formal Rooster Sprite sheet standing and running_35
+  - first:
+      213: 5914064419256086804
+    second: Formal Rooster Sprite sheet standing and running_36
+  - first:
+      213: -4369137276075453824
+    second: Formal Rooster Sprite sheet standing and running_37
+  - first:
+      213: 7406598184581453727
+    second: Formal Rooster Sprite sheet standing and running_38
+  - first:
+      213: -4137010522803122482
+    second: Formal Rooster Sprite sheet standing and running_39
+  - first:
+      213: -6278334142205719315
+    second: Formal Rooster Sprite sheet standing and running_40
+  - first:
+      213: 5900642652864050022
+    second: Formal Rooster Sprite sheet standing and running_41
+  - first:
+      213: 925468973675941650
+    second: Formal Rooster Sprite sheet standing and running_42
+  - first:
+      213: 974361030494719748
+    second: Formal Rooster Sprite sheet standing and running_43
+  - first:
+      213: 7925946144231373006
+    second: Formal Rooster Sprite sheet standing and running_44
+  - first:
+      213: -1308996746538571707
+    second: Formal Rooster Sprite sheet standing and running_45
+  - first:
+      213: -8531301705659941140
+    second: Formal Rooster Sprite sheet standing and running_46
+  - first:
+      213: -364188027350906823
+    second: Formal Rooster Sprite sheet standing and running_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Formal Rooster Sprite sheet standing and running_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2380609a3298fb8d0800000000000000
+      internalID: -2828391254712776654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Formal Rooster Sprite sheet standing and running_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c1cfef34f23bbf0800000000000000
+      internalID: -309851980271182779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Formal Rooster Sprite sheet standing and running_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81637ab4c9612d270800000000000000
+      internalID: 8273700325972981272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Formal Rooster Sprite sheet standing and running_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ce696c5a79eff40800000000000000
+      internalID: 5764211311337991175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Formal Rooster Sprite sheet standing and running_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19116948fd017e30800000000000000
+      internalID: 4499392862753986847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Formal Rooster Sprite sheet standing and running_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8466dc48e848a1820800000000000000
+      internalID: 2889767858559870536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Formal Rooster Sprite sheet standing and running_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecec83aab47b6b500800000000000000
+      internalID: 411717951557258958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Formal Rooster Sprite sheet standing and running_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bb86d1d9bd536c0800000000000000
+      internalID: -4164180812584404212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Formal Rooster Sprite sheet standing and running_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ead3da34e30d3cd0800000000000000
+      internalID: -2576899133011666204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Formal Rooster Sprite sheet standing and running_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5a7a22f94434de0800000000000000
+      internalID: -1350160013009115670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Formal Rooster Sprite sheet standing and running_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1800c89e3fad3c620800000000000000
+      internalID: 2793316935030014081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Formal Rooster Sprite sheet standing and running_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b1da10f7176b620800000000000000
+      internalID: 2789541809505508153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
