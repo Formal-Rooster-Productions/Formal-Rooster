@@ -17,7 +17,8 @@ namespace Assets
         {
             _animator = GetComponent<Animator>();
             _renderer = GetComponent<SpriteRenderer>();
-            _animator.enabled = false;
+            _animator.Play("Chicken Idle");
+            _animator.enabled = true;
         }
 
         public void Update()
@@ -27,7 +28,8 @@ namespace Assets
 
             Vector3 movement = new Vector3(playerVelocity.x * inputX, playerVelocity.y * inputY, 0);
 
-            _animator.enabled = movement.x != 0f;
+            if (movement.x != 0f) { _animator.Play("Chicken Run"); }
+            else { _animator.Play("Chicken Idle"); }
             _renderer.flipX = movement.x > 0f;
 
             movement *= Time.deltaTime;
